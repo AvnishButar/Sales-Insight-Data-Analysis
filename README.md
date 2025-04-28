@@ -22,7 +22,7 @@ It provides key business metrics such as revenue trends, top-performing products
 ---
 
 ## 🔗 Data Source
-- Data retrieved from a **SQL database** (Sample / Mock Data / Real Data — specify what it is).
+- Data retrieved from a **SQL database** https://github.com/AvnishButar/Sales-Insight-Data-Analysis/blob/main/dataset.sql.
 - Tables used: `sales`, `customers`, `products`, `regions`, etc. 
 
 ---
