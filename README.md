@@ -34,6 +34,6 @@ It provides key business metrics such as revenue trends, top-performing products
 4. Refresh the dataset and explore the dashboard.
 
 ## Snapshot
-![App Screenshot](images/screenshot1.png)
+![App Screenshot](images/Screenshot 2025-06-25 213403.png)
 
 
