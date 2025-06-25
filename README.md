@@ -33,3 +33,7 @@ It provides key business metrics such as revenue trends, top-performing products
 3. Update the SQL connection if needed (under `Home > Transform Data > Data source settings`).
 4. Refresh the dataset and explore the dashboard.
 
+## Snapshot
+![App Screenshot](images/screenshot1.png)
+
+
